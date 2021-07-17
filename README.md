@@ -9,8 +9,6 @@
 2. 6次メッシュとspot情報を紐づけ、tag_mapping_meshcode6
 テーブルを作成。（これまでルオン君スクリプトでArcGISで処理していたくだりをPostGIS（or MySQL）で処理する）
 
-#### データ共有用ドライブ
-https://drive.google.com/drive/u/0/folders/1kf4f0rzuW1DZ0c4SP_QfcrJdA7k98xS8
 
 
 ## スポットタグ処理スクリプト
@@ -70,10 +68,10 @@ gis.pem
 PostgreSQL + PostGIS
 
 #### ユーザー
-postgres
+
 
 #### パスワード
-postgres
+
 
 #### DB
 osm_kanto_test
