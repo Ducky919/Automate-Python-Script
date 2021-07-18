@@ -57,10 +57,10 @@ ubuntu
 都度コンソールで確認
 
 #### rootユーザー
-ubuntu
+xxxxx
 
 #### 鍵
-gis.pem
+xxxxx
 
 
 ## 開発用OSMデータベース
@@ -68,10 +68,10 @@ gis.pem
 PostgreSQL + PostGIS
 
 #### ユーザー
-
+xxxxxx
 
 #### パスワード
-
+xxxxxx
 
 #### DB
 osm_kanto_test
@@ -81,10 +81,10 @@ osm_kanto_test
 MySQL
 
 #### ユーザー
-gis
+xxxxxxx
 
 #### パスワード
-mysql
+xxxxxxx
 
 #### DB
 未構築
